@@ -1,0 +1,4 @@
+abboud 14 9 4 27
+marwan 3 9 5 17
+majed 8 9 1 18
+hamzah 19 4 6 29
